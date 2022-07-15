@@ -30,7 +30,7 @@ Hi, I'm [Miftakhul Anam ](https://github.com/miftakhulanam04/Miftakhul-Anam), a 
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 Love PHP :wink:;
+- 👨🏽‍💻 Love Python :wink:;
 - 🌱 I’m currently learning Artificial Intelligence & Machine Learning; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Whatsapp me: [+6287894443970]();
