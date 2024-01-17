@@ -25,7 +25,7 @@
 
 <br />
 
-Hi, I'm [Miftakhul Anam ](https://github.com/miftakhulanam04/Miftakhul-Anam), a UI/UX Designer and Full Stack Developer 🚀 from Indonesia.
+Hi, I'm [Miftakhul Anam ](https://github.com/miftakhulanam04/Miftakhul-Anam), a Frontend Web 🚀 from Indonesia.
   <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
